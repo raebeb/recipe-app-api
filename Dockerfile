@@ -1,5 +1,4 @@
 FROM python:3.7-alpine
-MAINTAINER Francisca Osores.
 
 ENV PYTHONUNBUFFERED 1
 
